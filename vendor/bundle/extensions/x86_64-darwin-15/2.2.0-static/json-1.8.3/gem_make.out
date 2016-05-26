@@ -1,0 +1,9 @@
+/Users/lotterymac/.rbenv/versions/2.2.2/bin/ruby -r ./siteconf20160526-33532-1f2ornk.rb extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+make "DESTDIR=" install
